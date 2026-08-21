@@ -1,7 +1,0 @@
-# Examples of supported platforms
-github: [your_github_username]
-patreon: your_patreon_username
-open_collective: your_collective_name
-ko_fi: your_kofi_username
-tidelift: "npm/your-package-name"
-custom: ["https://paypal.me", "https://your-website.com"]
